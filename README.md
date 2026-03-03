@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-FastFetch is a production-style image downloading system built in Python.  
+FastFetch is a production-style image downloading system built in Python. 
 The program downloads 100 images from:
 
 https://picsum.photos/300
