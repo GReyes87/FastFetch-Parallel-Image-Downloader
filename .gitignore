@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+req1_generate_100_imageurls/
+req2_serial_downloader_100urls/
+req3_parallel_downloader_100urls/
